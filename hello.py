@@ -1,12 +1,15 @@
-print('Hello World')
 
-text='''
-   /\_/\  
-  ( o.o ) 
-   > ^ <
-  /  _  \
- /__/ \__\
-    ||
-    ||
-    '''
-print(text)
+print("✨ Hello World ✨")
+
+bird = r"""
+          /\_/\
+       __\(o o)/__
+      /   > ^ <   \
+     /  \       /  \
+        / / \ \
+       /_/   \_\
+        ||   ||
+     ~~~~~~~~~~~
+"""
+
+print(bird)
